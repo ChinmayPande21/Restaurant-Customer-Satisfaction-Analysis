@@ -1,0 +1,501 @@
+review_id,date,branch,rating,review_text,cuisine,food_quality,service_rating,cleanliness_rating,price_rating,dining_type
+R0001,2025-05-21,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Italian,4,3,3,5,Dine-in
+R0002,2025-04-30,Old Town,1,The staff were dismissive and our order was incorrect.,Mediterranean,1,1,2,1,Takeaway
+R0003,2025-03-23,Harbor View,4,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,4,4,4,4,Dine-in
+R0004,2025-07-03,Tech Park,2,We waited too long for our food and the service felt slow.,Mediterranean,2,1,3,1,Takeaway
+R0005,2025-11-18,Old Town,2,Food arrived cold and the portion did not feel worth the price.,Asian Fusion,2,1,1,2,Takeaway
+R0006,2025-02-21,Harbor View,5,Quick service and delicious food; great value for money.,Asian Fusion,5,5,5,5,Takeaway
+R0007,2025-12-26,Downtown,3,"A reasonable visit, though nothing stood out.",Mediterranean,3,3,3,4,Takeaway
+R0008,2025-12-19,Old Town,3,The meal matched expectations for a casual restaurant.,Italian,3,2,3,2,Takeaway
+R0009,2025-04-19,Old Town,4,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,4,5,5,5,Dine-in
+R0010,2025-10-15,Old Town,3,Food was okay and the service was average.,Asian Fusion,4,4,3,3,Dine-in
+R0011,2025-01-25,Downtown,4,Wonderful meal with fresh ingredients and friendly staff.,Italian,4,5,3,5,Takeaway
+R0012,2025-09-28,Tech Park,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,3,3,4,4,Dine-in
+R0013,2025-08-21,Downtown,3,Food was okay and the service was average.,Asian Fusion,3,2,3,3,Dine-in
+R0014,2025-10-04,Old Town,4,Quick service and delicious food; great value for money.,Indian,4,5,3,3,Takeaway
+R0015,2025-05-03,Downtown,5,The dining room was spotless and our order was accurate.,Italian,4,4,5,4,Delivery
+R0016,2025-12-04,Harbor View,5,Quick service and delicious food; great value for money.,Mediterranean,5,5,5,5,Delivery
+R0017,2025-06-09,Harbor View,5,Quick service and delicious food; great value for money.,Asian Fusion,5,5,4,5,Dine-in
+R0018,2025-10-29,Old Town,1,We waited too long for our food and the service felt slow.,Italian,1,1,1,1,Dine-in
+R0019,2025-06-19,Downtown,1,We waited too long for our food and the service felt slow.,Mediterranean,1,1,2,1,Delivery
+R0020,2025-05-05,Harbor View,2,Tables and washroom needed better cleaning and hygiene.,Mexican,2,1,1,3,Takeaway
+R0021,2025-01-28,Downtown,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Indian,5,4,3,4,Dine-in
+R0022,2025-03-13,Harbor View,3,"A reasonable visit, though nothing stood out.",Italian,3,4,3,2,Takeaway
+R0023,2025-01-26,Old Town,5,Wonderful meal with fresh ingredients and friendly staff.,Indian,4,5,5,5,Takeaway
+R0024,2025-01-31,Riverside,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,3,5,4,5,Takeaway
+R0025,2025-03-21,Riverside,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,4,3,3,4,Dine-in
+R0026,2025-09-15,Old Town,1,Tables and washroom needed better cleaning and hygiene.,Italian,1,1,1,1,Delivery
+R0027,2025-07-26,Downtown,1,The staff were dismissive and our order was incorrect.,Mediterranean,1,1,1,2,Delivery
+R0028,2025-05-14,Riverside,4,The dining room was spotless and our order was accurate.,Asian Fusion,4,4,5,4,Delivery
+R0029,2025-06-11,Downtown,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Indian,5,3,3,4,Delivery
+R0030,2025-02-05,Riverside,3,"A reasonable visit, though nothing stood out.",Asian Fusion,3,3,4,3,Delivery
+R0031,2025-12-08,Old Town,5,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,4,5,5,4,Dine-in
+R0032,2025-05-20,Tech Park,5,Quick service and delicious food; great value for money.,Mediterranean,5,5,5,5,Delivery
+R0033,2025-02-17,Harbor View,4,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,3,3,4,4,Delivery
+R0034,2025-08-15,Old Town,5,Quick service and delicious food; great value for money.,Mexican,4,4,4,5,Delivery
+R0035,2025-10-26,Old Town,1,Food arrived cold and the portion did not feel worth the price.,Italian,2,1,1,1,Takeaway
+R0036,2025-07-03,Riverside,5,Wonderful meal with fresh ingredients and friendly staff.,Italian,4,5,5,5,Dine-in
+R0037,2025-07-31,Downtown,5,Quick service and delicious food; great value for money.,Italian,5,5,5,5,Dine-in
+R0038,2025-07-15,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Mexican,5,5,5,5,Takeaway
+R0039,2025-04-25,Downtown,5,Quick service and delicious food; great value for money.,Italian,5,5,5,4,Takeaway
+R0040,2025-07-24,Old Town,3,The meal matched expectations for a casual restaurant.,Asian Fusion,2,2,3,3,Delivery
+R0041,2025-01-20,Downtown,5,The dining room was spotless and our order was accurate.,Mediterranean,5,5,5,5,Delivery
+R0042,2025-07-17,Old Town,5,Wonderful meal with fresh ingredients and friendly staff.,Italian,5,4,5,4,Delivery
+R0043,2025-07-06,Harbor View,5,Quick service and delicious food; great value for money.,Indian,5,5,4,5,Delivery
+R0044,2025-06-17,Harbor View,3,"A reasonable visit, though nothing stood out.",Asian Fusion,3,3,4,4,Delivery
+R0045,2025-11-12,Old Town,5,Quick service and delicious food; great value for money.,Asian Fusion,5,4,5,5,Dine-in
+R0046,2025-08-27,Harbor View,4,The dining room was spotless and our order was accurate.,Mexican,4,5,4,3,Takeaway
+R0047,2025-02-17,Riverside,4,The dining room was spotless and our order was accurate.,Asian Fusion,4,4,4,3,Dine-in
+R0048,2025-11-09,Downtown,3,"A reasonable visit, though nothing stood out.",Mexican,4,3,4,4,Takeaway
+R0049,2025-12-19,Downtown,3,The meal matched expectations for a casual restaurant.,Indian,4,3,3,4,Dine-in
+R0050,2025-08-22,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Mexican,4,5,5,5,Dine-in
+R0051,2025-08-19,Tech Park,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Italian,5,5,5,5,Takeaway
+R0052,2025-05-01,Tech Park,2,Food arrived cold and the portion did not feel worth the price.,Asian Fusion,2,1,2,2,Dine-in
+R0053,2025-12-28,Riverside,4,Quick service and delicious food; great value for money.,Indian,5,5,4,5,Takeaway
+R0054,2025-07-19,Old Town,1,Tables and washroom needed better cleaning and hygiene.,Indian,2,2,1,1,Takeaway
+R0055,2025-10-03,Old Town,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,5,5,5,5,Takeaway
+R0056,2025-06-22,Harbor View,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Italian,5,4,3,5,Delivery
+R0057,2025-02-12,Harbor View,4,Wonderful meal with fresh ingredients and friendly staff.,Italian,5,4,3,4,Takeaway
+R0058,2025-06-17,Tech Park,3,"A reasonable visit, though nothing stood out.",Mexican,3,4,3,2,Takeaway
+R0059,2025-06-29,Riverside,1,We waited too long for our food and the service felt slow.,Indian,1,1,1,1,Dine-in
+R0060,2025-03-06,Harbor View,4,Quick service and delicious food; great value for money.,Indian,4,5,4,4,Dine-in
+R0061,2025-03-25,Tech Park,4,Wonderful meal with fresh ingredients and friendly staff.,Indian,3,4,5,5,Delivery
+R0062,2025-12-20,Riverside,3,The meal matched expectations for a casual restaurant.,Indian,3,2,2,3,Delivery
+R0063,2025-02-05,Old Town,4,The dining room was spotless and our order was accurate.,Asian Fusion,3,5,5,3,Takeaway
+R0064,2025-12-29,Riverside,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,5,5,5,5,Takeaway
+R0065,2025-06-15,Riverside,5,The dining room was spotless and our order was accurate.,Indian,5,5,5,5,Delivery
+R0066,2025-06-22,Downtown,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,4,4,5,4,Takeaway
+R0067,2025-05-24,Old Town,5,The dining room was spotless and our order was accurate.,Asian Fusion,4,5,4,5,Delivery
+R0068,2025-12-20,Harbor View,4,Quick service and delicious food; great value for money.,Mexican,5,3,3,4,Dine-in
+R0069,2025-06-06,Old Town,4,Quick service and delicious food; great value for money.,Asian Fusion,5,4,5,4,Takeaway
+R0070,2025-06-06,Tech Park,4,The dining room was spotless and our order was accurate.,Italian,3,4,4,3,Delivery
+R0071,2025-04-09,Riverside,4,Quick service and delicious food; great value for money.,Mexican,4,4,3,4,Takeaway
+R0072,2025-06-04,Downtown,3,Food was okay and the service was average.,Mediterranean,3,3,2,2,Delivery
+R0073,2025-11-23,Harbor View,3,Food was okay and the service was average.,Indian,2,3,4,4,Takeaway
+R0074,2025-05-10,Harbor View,3,Food was okay and the service was average.,Indian,2,4,4,2,Delivery
+R0075,2025-03-19,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,4,3,4,3,Delivery
+R0076,2025-09-25,Harbor View,5,Quick service and delicious food; great value for money.,Mexican,5,5,5,5,Delivery
+R0077,2025-04-17,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,3,4,4,4,Delivery
+R0078,2025-07-29,Harbor View,2,We waited too long for our food and the service felt slow.,Mediterranean,3,2,1,2,Takeaway
+R0079,2025-02-06,Riverside,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,4,5,3,4,Delivery
+R0080,2025-03-14,Downtown,2,Food arrived cold and the portion did not feel worth the price.,Indian,2,2,2,3,Dine-in
+R0081,2025-12-25,Harbor View,4,The dining room was spotless and our order was accurate.,Asian Fusion,5,5,3,3,Takeaway
+R0082,2025-01-14,Downtown,5,The dining room was spotless and our order was accurate.,Italian,4,5,4,5,Takeaway
+R0083,2025-05-23,Riverside,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,5,5,3,5,Takeaway
+R0084,2025-12-10,Downtown,4,The dining room was spotless and our order was accurate.,Italian,4,5,5,4,Delivery
+R0085,2025-08-21,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,5,5,4,5,Delivery
+R0086,2025-12-03,Old Town,5,Wonderful meal with fresh ingredients and friendly staff.,Mexican,5,4,5,5,Delivery
+R0087,2025-01-27,Riverside,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,5,5,5,5,Dine-in
+R0088,2025-12-30,Riverside,1,The staff were dismissive and our order was incorrect.,Asian Fusion,1,2,1,1,Dine-in
+R0089,2025-11-28,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Mexican,4,4,5,5,Takeaway
+R0090,2025-03-16,Harbor View,3,The meal matched expectations for a casual restaurant.,Italian,3,2,3,4,Takeaway
+R0091,2025-01-02,Tech Park,5,The dining room was spotless and our order was accurate.,Asian Fusion,5,5,5,5,Takeaway
+R0092,2025-07-13,Harbor View,3,The meal matched expectations for a casual restaurant.,Asian Fusion,3,3,4,3,Takeaway
+R0093,2025-12-28,Harbor View,1,Tables and washroom needed better cleaning and hygiene.,Mexican,1,2,1,1,Delivery
+R0094,2025-02-21,Harbor View,5,The dining room was spotless and our order was accurate.,Indian,5,4,5,5,Delivery
+R0095,2025-08-29,Tech Park,5,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,5,4,5,5,Takeaway
+R0096,2025-10-05,Downtown,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,3,4,4,4,Delivery
+R0097,2025-11-21,Downtown,2,We waited too long for our food and the service felt slow.,Mexican,2,2,1,1,Takeaway
+R0098,2025-07-03,Tech Park,5,The dining room was spotless and our order was accurate.,Mexican,5,5,5,5,Dine-in
+R0099,2025-07-15,Old Town,3,The meal matched expectations for a casual restaurant.,Italian,4,3,3,4,Delivery
+R0100,2025-12-08,Downtown,3,"A reasonable visit, though nothing stood out.",Mexican,3,3,2,4,Takeaway
+R0101,2025-11-24,Harbor View,5,The dining room was spotless and our order was accurate.,Asian Fusion,5,5,5,5,Takeaway
+R0102,2025-10-20,Tech Park,2,Tables and washroom needed better cleaning and hygiene.,Mediterranean,2,2,1,3,Takeaway
+R0103,2025-11-07,Harbor View,1,We waited too long for our food and the service felt slow.,Asian Fusion,1,1,1,1,Delivery
+R0104,2025-12-04,Riverside,3,The meal matched expectations for a casual restaurant.,Indian,2,3,4,2,Delivery
+R0105,2025-02-16,Tech Park,3,Food was okay and the service was average.,Asian Fusion,4,3,3,3,Delivery
+R0106,2025-09-29,Old Town,5,The dining room was spotless and our order was accurate.,Asian Fusion,5,5,5,5,Delivery
+R0107,2025-08-28,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Italian,5,5,5,4,Takeaway
+R0108,2025-08-21,Tech Park,1,We waited too long for our food and the service felt slow.,Asian Fusion,2,1,1,1,Takeaway
+R0109,2025-11-09,Riverside,1,Food arrived cold and the portion did not feel worth the price.,Indian,2,1,2,1,Dine-in
+R0110,2025-06-05,Harbor View,1,We waited too long for our food and the service felt slow.,Indian,1,1,1,2,Takeaway
+R0111,2025-10-28,Riverside,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,3,5,5,4,Dine-in
+R0112,2025-08-16,Harbor View,4,Quick service and delicious food; great value for money.,Italian,4,3,4,4,Dine-in
+R0113,2025-03-04,Harbor View,4,Quick service and delicious food; great value for money.,Indian,4,3,3,4,Dine-in
+R0114,2025-02-05,Old Town,5,Quick service and delicious food; great value for money.,Italian,5,5,5,5,Delivery
+R0115,2025-03-08,Old Town,1,The staff were dismissive and our order was incorrect.,Asian Fusion,1,1,1,1,Dine-in
+R0116,2025-10-29,Tech Park,3,Food was okay and the service was average.,Indian,3,3,2,3,Delivery
+R0117,2025-02-02,Harbor View,4,Wonderful meal with fresh ingredients and friendly staff.,Mexican,4,3,5,4,Delivery
+R0118,2025-08-23,Downtown,1,Food arrived cold and the portion did not feel worth the price.,Indian,2,2,2,1,Takeaway
+R0119,2025-02-07,Downtown,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,5,4,5,5,Delivery
+R0120,2025-07-15,Old Town,4,The dining room was spotless and our order was accurate.,Mediterranean,4,5,5,3,Delivery
+R0121,2025-08-09,Harbor View,2,The staff were dismissive and our order was incorrect.,Italian,3,2,3,3,Takeaway
+R0122,2025-08-07,Tech Park,5,The dining room was spotless and our order was accurate.,Asian Fusion,5,5,5,4,Dine-in
+R0123,2025-08-10,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,5,4,5,4,Takeaway
+R0124,2025-08-05,Downtown,3,The meal matched expectations for a casual restaurant.,Asian Fusion,3,3,2,3,Dine-in
+R0125,2025-02-25,Tech Park,4,Quick service and delicious food; great value for money.,Mediterranean,4,3,4,4,Takeaway
+R0126,2025-11-08,Tech Park,5,Wonderful meal with fresh ingredients and friendly staff.,Indian,5,5,5,5,Takeaway
+R0127,2025-10-17,Harbor View,1,The staff were dismissive and our order was incorrect.,Indian,1,1,1,1,Takeaway
+R0128,2025-03-22,Tech Park,4,The dining room was spotless and our order was accurate.,Asian Fusion,4,3,3,4,Dine-in
+R0129,2025-12-12,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,5,5,5,5,Takeaway
+R0130,2025-02-28,Tech Park,3,The meal matched expectations for a casual restaurant.,Mexican,2,3,4,3,Dine-in
+R0131,2025-01-29,Downtown,3,The meal matched expectations for a casual restaurant.,Italian,3,3,3,3,Takeaway
+R0132,2025-09-12,Harbor View,3,Food was okay and the service was average.,Italian,3,4,3,3,Dine-in
+R0133,2025-08-12,Downtown,4,Wonderful meal with fresh ingredients and friendly staff.,Mexican,3,4,5,5,Delivery
+R0134,2025-02-28,Harbor View,4,The dining room was spotless and our order was accurate.,Indian,4,4,5,4,Dine-in
+R0135,2025-05-05,Harbor View,4,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,5,3,5,4,Delivery
+R0136,2025-03-28,Downtown,3,"A reasonable visit, though nothing stood out.",Mediterranean,2,3,3,3,Delivery
+R0137,2025-05-01,Downtown,5,Quick service and delicious food; great value for money.,Italian,5,5,5,5,Delivery
+R0138,2025-08-26,Old Town,2,Tables and washroom needed better cleaning and hygiene.,Mediterranean,3,2,2,2,Takeaway
+R0139,2025-11-20,Tech Park,1,Tables and washroom needed better cleaning and hygiene.,Asian Fusion,1,1,1,1,Takeaway
+R0140,2025-07-08,Tech Park,4,Wonderful meal with fresh ingredients and friendly staff.,Indian,3,5,5,3,Takeaway
+R0141,2025-06-14,Old Town,5,Quick service and delicious food; great value for money.,Mexican,5,4,5,4,Takeaway
+R0142,2025-09-16,Riverside,5,Wonderful meal with fresh ingredients and friendly staff.,Indian,5,5,5,5,Takeaway
+R0143,2025-07-18,Harbor View,4,The dining room was spotless and our order was accurate.,Asian Fusion,3,4,3,4,Dine-in
+R0144,2025-05-26,Tech Park,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,4,4,3,4,Takeaway
+R0145,2025-12-24,Harbor View,3,The meal matched expectations for a casual restaurant.,Italian,2,3,4,3,Dine-in
+R0146,2025-11-27,Harbor View,4,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,4,3,4,4,Dine-in
+R0147,2025-09-06,Riverside,5,The dining room was spotless and our order was accurate.,Italian,5,5,4,5,Dine-in
+R0148,2025-12-05,Tech Park,4,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,4,5,4,4,Dine-in
+R0149,2025-08-13,Downtown,5,Quick service and delicious food; great value for money.,Mexican,5,5,5,5,Delivery
+R0150,2025-10-01,Riverside,5,Quick service and delicious food; great value for money.,Asian Fusion,5,5,5,5,Takeaway
+R0151,2025-09-15,Old Town,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,5,5,5,5,Dine-in
+R0152,2025-10-11,Downtown,4,The dining room was spotless and our order was accurate.,Mediterranean,3,4,3,4,Takeaway
+R0153,2025-08-12,Downtown,4,Quick service and delicious food; great value for money.,Italian,5,4,3,5,Dine-in
+R0154,2025-05-01,Harbor View,4,The dining room was spotless and our order was accurate.,Indian,4,4,3,4,Dine-in
+R0155,2025-03-16,Riverside,5,The dining room was spotless and our order was accurate.,Indian,5,5,5,5,Takeaway
+R0156,2025-01-10,Tech Park,4,Wonderful meal with fresh ingredients and friendly staff.,Italian,4,5,3,4,Dine-in
+R0157,2025-05-03,Harbor View,3,Food was okay and the service was average.,Mediterranean,4,2,2,4,Delivery
+R0158,2025-03-15,Tech Park,4,Quick service and delicious food; great value for money.,Mexican,3,4,4,5,Dine-in
+R0159,2025-09-26,Tech Park,4,Wonderful meal with fresh ingredients and friendly staff.,Indian,3,5,5,3,Delivery
+R0160,2025-05-10,Downtown,4,The dining room was spotless and our order was accurate.,Asian Fusion,3,4,4,3,Delivery
+R0161,2025-03-10,Downtown,5,The dining room was spotless and our order was accurate.,Asian Fusion,5,5,5,5,Delivery
+R0162,2025-02-02,Harbor View,3,Food was okay and the service was average.,Indian,3,3,2,3,Dine-in
+R0163,2025-09-21,Harbor View,3,"A reasonable visit, though nothing stood out.",Mediterranean,4,3,2,3,Takeaway
+R0164,2025-12-02,Tech Park,3,Food was okay and the service was average.,Asian Fusion,2,3,4,4,Delivery
+R0165,2025-06-23,Riverside,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,5,4,4,3,Delivery
+R0166,2025-11-05,Riverside,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,4,4,3,3,Takeaway
+R0167,2025-08-17,Old Town,4,The dining room was spotless and our order was accurate.,Mexican,4,5,4,5,Dine-in
+R0168,2025-11-11,Harbor View,5,The dining room was spotless and our order was accurate.,Asian Fusion,4,4,5,5,Delivery
+R0169,2025-01-16,Riverside,5,Quick service and delicious food; great value for money.,Mediterranean,5,4,5,4,Dine-in
+R0170,2025-07-05,Harbor View,5,The dining room was spotless and our order was accurate.,Mediterranean,4,5,5,5,Takeaway
+R0171,2025-10-21,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,4,5,4,4,Dine-in
+R0172,2025-04-06,Harbor View,5,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,5,4,5,5,Delivery
+R0173,2025-12-22,Harbor View,4,The dining room was spotless and our order was accurate.,Italian,3,4,3,5,Dine-in
+R0174,2025-02-14,Tech Park,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,4,5,5,5,Delivery
+R0175,2025-07-05,Old Town,4,Quick service and delicious food; great value for money.,Italian,3,4,4,4,Takeaway
+R0176,2025-08-28,Old Town,1,Food arrived cold and the portion did not feel worth the price.,Italian,1,1,1,2,Delivery
+R0177,2025-07-29,Old Town,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Indian,5,5,4,5,Takeaway
+R0178,2025-03-07,Old Town,4,The dining room was spotless and our order was accurate.,Mediterranean,4,4,5,3,Dine-in
+R0179,2025-03-26,Riverside,4,The dining room was spotless and our order was accurate.,Asian Fusion,4,4,4,3,Takeaway
+R0180,2025-05-21,Riverside,3,The meal matched expectations for a casual restaurant.,Asian Fusion,2,3,3,3,Delivery
+R0181,2025-10-16,Downtown,4,The dining room was spotless and our order was accurate.,Indian,3,3,4,4,Delivery
+R0182,2025-09-12,Old Town,4,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,4,5,4,5,Takeaway
+R0183,2025-03-22,Harbor View,4,Wonderful meal with fresh ingredients and friendly staff.,Mexican,5,5,4,4,Delivery
+R0184,2025-06-26,Harbor View,2,Food arrived cold and the portion did not feel worth the price.,Italian,2,1,2,2,Takeaway
+R0185,2025-05-07,Riverside,2,Tables and washroom needed better cleaning and hygiene.,Indian,1,2,3,3,Dine-in
+R0186,2025-06-17,Old Town,5,Quick service and delicious food; great value for money.,Asian Fusion,5,5,5,5,Takeaway
+R0187,2025-01-12,Downtown,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,5,5,5,5,Dine-in
+R0188,2025-11-02,Harbor View,1,Tables and washroom needed better cleaning and hygiene.,Asian Fusion,1,1,2,1,Takeaway
+R0189,2025-07-07,Downtown,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,4,5,5,5,Dine-in
+R0190,2025-10-09,Tech Park,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,3,4,3,5,Takeaway
+R0191,2025-10-13,Tech Park,5,The dining room was spotless and our order was accurate.,Italian,5,5,4,4,Dine-in
+R0192,2025-08-31,Old Town,2,Food arrived cold and the portion did not feel worth the price.,Mexican,2,2,2,2,Dine-in
+R0193,2025-10-31,Tech Park,4,The dining room was spotless and our order was accurate.,Mediterranean,5,4,5,3,Takeaway
+R0194,2025-08-02,Old Town,3,Food was okay and the service was average.,Asian Fusion,2,4,3,3,Delivery
+R0195,2025-03-29,Old Town,1,Tables and washroom needed better cleaning and hygiene.,Mediterranean,2,1,1,1,Delivery
+R0196,2025-04-08,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Mexican,5,5,5,5,Delivery
+R0197,2025-11-10,Harbor View,3,The meal matched expectations for a casual restaurant.,Indian,3,3,3,4,Delivery
+R0198,2025-08-24,Old Town,4,Quick service and delicious food; great value for money.,Asian Fusion,4,4,5,4,Dine-in
+R0199,2025-04-26,Tech Park,3,"A reasonable visit, though nothing stood out.",Asian Fusion,3,4,3,4,Takeaway
+R0200,2025-05-28,Downtown,4,The dining room was spotless and our order was accurate.,Mediterranean,5,5,4,4,Takeaway
+R0201,2025-06-27,Harbor View,1,We waited too long for our food and the service felt slow.,Asian Fusion,2,1,1,1,Delivery
+R0202,2025-02-25,Old Town,4,Quick service and delicious food; great value for money.,Mediterranean,4,4,3,4,Delivery
+R0203,2025-07-31,Tech Park,3,Food was okay and the service was average.,Mexican,2,3,2,3,Takeaway
+R0204,2025-09-02,Riverside,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,4,4,3,3,Delivery
+R0205,2025-03-31,Harbor View,4,Wonderful meal with fresh ingredients and friendly staff.,Italian,3,5,5,4,Delivery
+R0206,2025-01-20,Downtown,5,The dining room was spotless and our order was accurate.,Asian Fusion,4,5,5,5,Delivery
+R0207,2025-03-10,Old Town,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,4,4,3,4,Dine-in
+R0208,2025-04-06,Downtown,5,The dining room was spotless and our order was accurate.,Asian Fusion,5,5,5,5,Takeaway
+R0209,2025-07-25,Downtown,4,Wonderful meal with fresh ingredients and friendly staff.,Italian,4,5,4,4,Dine-in
+R0210,2025-08-17,Tech Park,3,Food was okay and the service was average.,Asian Fusion,3,2,3,3,Delivery
+R0211,2025-03-02,Harbor View,3,The meal matched expectations for a casual restaurant.,Asian Fusion,3,4,3,2,Delivery
+R0212,2025-07-08,Old Town,5,The dining room was spotless and our order was accurate.,Italian,5,5,5,5,Takeaway
+R0213,2025-08-01,Old Town,5,The dining room was spotless and our order was accurate.,Mexican,5,5,4,5,Delivery
+R0214,2025-10-16,Downtown,4,Wonderful meal with fresh ingredients and friendly staff.,Indian,4,4,4,4,Delivery
+R0215,2025-10-26,Harbor View,4,Quick service and delicious food; great value for money.,Indian,5,3,5,4,Delivery
+R0216,2025-10-14,Harbor View,4,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,3,5,4,3,Delivery
+R0217,2025-01-24,Harbor View,3,Food was okay and the service was average.,Asian Fusion,2,2,2,4,Dine-in
+R0218,2025-03-11,Harbor View,3,Food was okay and the service was average.,Asian Fusion,4,4,4,4,Dine-in
+R0219,2025-12-01,Tech Park,4,Quick service and delicious food; great value for money.,Indian,4,5,4,4,Dine-in
+R0220,2025-08-26,Old Town,5,The dining room was spotless and our order was accurate.,Mexican,5,5,5,5,Takeaway
+R0221,2025-02-27,Downtown,2,The staff were dismissive and our order was incorrect.,Mexican,1,2,2,1,Dine-in
+R0222,2025-11-03,Downtown,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Italian,3,5,5,4,Delivery
+R0223,2025-03-13,Old Town,3,Food was okay and the service was average.,Asian Fusion,3,3,3,3,Takeaway
+R0224,2025-07-31,Tech Park,5,Quick service and delicious food; great value for money.,Asian Fusion,4,5,5,5,Dine-in
+R0225,2025-09-26,Tech Park,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,5,5,5,5,Dine-in
+R0226,2025-05-04,Riverside,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,5,5,4,5,Takeaway
+R0227,2025-07-18,Riverside,4,Quick service and delicious food; great value for money.,Asian Fusion,4,4,3,5,Takeaway
+R0228,2025-01-27,Tech Park,2,The staff were dismissive and our order was incorrect.,Mexican,1,1,2,2,Takeaway
+R0229,2025-06-05,Downtown,3,"A reasonable visit, though nothing stood out.",Italian,3,2,4,3,Delivery
+R0230,2025-07-23,Riverside,4,Quick service and delicious food; great value for money.,Mediterranean,4,4,5,5,Delivery
+R0231,2025-05-14,Tech Park,4,The dining room was spotless and our order was accurate.,Mediterranean,5,5,3,5,Takeaway
+R0232,2025-06-10,Harbor View,5,The dining room was spotless and our order was accurate.,Indian,5,5,4,5,Delivery
+R0233,2025-06-01,Riverside,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Italian,5,5,5,5,Takeaway
+R0234,2025-05-12,Harbor View,4,The dining room was spotless and our order was accurate.,Mexican,5,4,4,4,Dine-in
+R0235,2025-04-05,Old Town,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Indian,4,4,4,4,Takeaway
+R0236,2025-02-04,Riverside,2,The staff were dismissive and our order was incorrect.,Indian,2,3,2,1,Delivery
+R0237,2025-12-04,Harbor View,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Indian,3,5,3,3,Delivery
+R0238,2025-01-09,Old Town,5,The dining room was spotless and our order was accurate.,Mexican,5,4,4,5,Dine-in
+R0239,2025-05-10,Tech Park,3,The meal matched expectations for a casual restaurant.,Asian Fusion,4,2,3,4,Takeaway
+R0240,2025-06-03,Downtown,4,Quick service and delicious food; great value for money.,Indian,3,5,5,5,Delivery
+R0241,2025-12-26,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Indian,5,5,4,3,Delivery
+R0242,2025-04-19,Old Town,5,Quick service and delicious food; great value for money.,Mexican,5,4,4,5,Delivery
+R0243,2025-04-02,Tech Park,4,Wonderful meal with fresh ingredients and friendly staff.,Indian,4,4,5,3,Takeaway
+R0244,2025-10-18,Harbor View,2,The staff were dismissive and our order was incorrect.,Mediterranean,2,3,2,1,Delivery
+R0245,2025-01-28,Downtown,5,The dining room was spotless and our order was accurate.,Mexican,5,4,5,5,Takeaway
+R0246,2025-08-19,Harbor View,1,Food arrived cold and the portion did not feel worth the price.,Italian,1,2,2,1,Delivery
+R0247,2025-02-13,Old Town,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,4,3,3,4,Dine-in
+R0248,2025-07-19,Tech Park,4,Quick service and delicious food; great value for money.,Asian Fusion,3,3,3,4,Takeaway
+R0249,2025-02-22,Riverside,3,"A reasonable visit, though nothing stood out.",Indian,3,4,4,4,Dine-in
+R0250,2025-10-11,Downtown,1,Food arrived cold and the portion did not feel worth the price.,Mediterranean,1,2,1,1,Takeaway
+R0251,2025-10-14,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,4,5,4,4,Takeaway
+R0252,2025-03-16,Downtown,3,"A reasonable visit, though nothing stood out.",Italian,4,3,4,3,Takeaway
+R0253,2025-05-09,Riverside,5,The dining room was spotless and our order was accurate.,Mexican,5,5,4,5,Takeaway
+R0254,2025-06-20,Old Town,1,Tables and washroom needed better cleaning and hygiene.,Mexican,1,2,1,2,Delivery
+R0255,2025-06-03,Tech Park,5,Quick service and delicious food; great value for money.,Mediterranean,5,5,5,5,Takeaway
+R0256,2025-12-22,Harbor View,5,The dining room was spotless and our order was accurate.,Mediterranean,5,5,5,5,Takeaway
+R0257,2025-04-13,Old Town,3,The meal matched expectations for a casual restaurant.,Mediterranean,3,2,4,3,Takeaway
+R0258,2025-07-29,Harbor View,5,Wonderful meal with fresh ingredients and friendly staff.,Italian,5,5,5,5,Delivery
+R0259,2025-02-07,Harbor View,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,5,5,5,3,Takeaway
+R0260,2025-02-25,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,4,3,5,4,Takeaway
+R0261,2025-05-13,Riverside,2,We waited too long for our food and the service felt slow.,Mediterranean,2,3,2,3,Takeaway
+R0262,2025-06-26,Downtown,5,Quick service and delicious food; great value for money.,Mexican,4,5,5,4,Dine-in
+R0263,2025-06-28,Tech Park,5,Quick service and delicious food; great value for money.,Asian Fusion,5,5,5,5,Takeaway
+R0264,2025-06-13,Downtown,2,Tables and washroom needed better cleaning and hygiene.,Asian Fusion,1,1,1,2,Delivery
+R0265,2025-05-05,Old Town,2,The staff were dismissive and our order was incorrect.,Italian,2,2,3,3,Dine-in
+R0266,2025-04-06,Harbor View,5,Quick service and delicious food; great value for money.,Mexican,4,5,5,5,Takeaway
+R0267,2025-04-16,Tech Park,1,The staff were dismissive and our order was incorrect.,Indian,1,1,1,1,Dine-in
+R0268,2025-12-10,Harbor View,4,The dining room was spotless and our order was accurate.,Mediterranean,4,5,5,3,Takeaway
+R0269,2025-11-13,Riverside,3,"A reasonable visit, though nothing stood out.",Asian Fusion,2,3,3,2,Dine-in
+R0270,2025-07-11,Riverside,3,Food was okay and the service was average.,Mediterranean,4,4,3,4,Takeaway
+R0271,2025-10-03,Riverside,3,The meal matched expectations for a casual restaurant.,Mediterranean,3,4,3,3,Dine-in
+R0272,2025-11-14,Downtown,3,"A reasonable visit, though nothing stood out.",Asian Fusion,2,4,3,3,Takeaway
+R0273,2025-07-29,Harbor View,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,5,5,5,4,Delivery
+R0274,2025-05-30,Downtown,1,The staff were dismissive and our order was incorrect.,Asian Fusion,1,1,1,2,Delivery
+R0275,2025-10-09,Old Town,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Indian,4,5,5,4,Delivery
+R0276,2025-08-06,Downtown,4,Quick service and delicious food; great value for money.,Italian,4,3,5,4,Takeaway
+R0277,2025-08-13,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Italian,5,5,5,5,Delivery
+R0278,2025-04-16,Downtown,2,The staff were dismissive and our order was incorrect.,Mediterranean,2,2,2,2,Delivery
+R0279,2025-05-17,Old Town,3,The meal matched expectations for a casual restaurant.,Indian,3,4,2,3,Delivery
+R0280,2025-05-08,Riverside,2,The staff were dismissive and our order was incorrect.,Asian Fusion,2,3,3,2,Delivery
+R0281,2025-07-12,Harbor View,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Indian,3,5,4,4,Takeaway
+R0282,2025-10-25,Downtown,5,The dining room was spotless and our order was accurate.,Indian,5,5,4,5,Dine-in
+R0283,2025-09-11,Tech Park,5,Quick service and delicious food; great value for money.,Asian Fusion,5,5,5,5,Takeaway
+R0284,2025-01-24,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Mexican,4,4,5,5,Takeaway
+R0285,2025-04-14,Riverside,1,Tables and washroom needed better cleaning and hygiene.,Asian Fusion,1,1,1,1,Takeaway
+R0286,2025-01-27,Harbor View,2,The staff were dismissive and our order was incorrect.,Asian Fusion,2,3,1,1,Dine-in
+R0287,2025-03-09,Old Town,3,Food was okay and the service was average.,Italian,4,2,2,3,Dine-in
+R0288,2025-12-22,Riverside,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,4,5,5,4,Delivery
+R0289,2025-06-10,Tech Park,5,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,5,5,5,5,Dine-in
+R0290,2025-11-09,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Mexican,4,4,4,5,Delivery
+R0291,2025-02-14,Downtown,4,Quick service and delicious food; great value for money.,Italian,3,5,4,5,Takeaway
+R0292,2025-05-22,Downtown,5,Quick service and delicious food; great value for money.,Italian,5,4,5,5,Delivery
+R0293,2025-07-20,Tech Park,4,Quick service and delicious food; great value for money.,Indian,4,5,5,3,Dine-in
+R0294,2025-09-28,Downtown,4,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,4,4,5,5,Takeaway
+R0295,2025-08-30,Downtown,4,Quick service and delicious food; great value for money.,Indian,3,3,4,4,Dine-in
+R0296,2025-09-17,Tech Park,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,5,5,5,4,Delivery
+R0297,2025-05-23,Downtown,4,Quick service and delicious food; great value for money.,Asian Fusion,3,4,4,4,Takeaway
+R0298,2025-06-08,Harbor View,4,Wonderful meal with fresh ingredients and friendly staff.,Italian,3,4,3,5,Dine-in
+R0299,2025-06-08,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Indian,3,4,3,4,Takeaway
+R0300,2025-03-27,Tech Park,5,The dining room was spotless and our order was accurate.,Italian,5,4,4,5,Takeaway
+R0301,2025-05-15,Old Town,3,Food was okay and the service was average.,Indian,4,4,3,2,Takeaway
+R0302,2025-07-08,Riverside,5,Quick service and delicious food; great value for money.,Asian Fusion,4,4,5,4,Dine-in
+R0303,2025-05-06,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Mexican,5,5,5,5,Dine-in
+R0304,2025-04-25,Tech Park,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Italian,5,4,4,3,Delivery
+R0305,2025-04-02,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,3,5,3,5,Takeaway
+R0306,2025-06-17,Downtown,5,The dining room was spotless and our order was accurate.,Mediterranean,5,4,5,5,Takeaway
+R0307,2025-11-15,Riverside,4,The dining room was spotless and our order was accurate.,Mexican,4,5,4,4,Dine-in
+R0308,2025-01-13,Riverside,1,Tables and washroom needed better cleaning and hygiene.,Mediterranean,1,1,1,1,Delivery
+R0309,2025-02-23,Riverside,4,The dining room was spotless and our order was accurate.,Mediterranean,4,5,5,3,Dine-in
+R0310,2025-01-23,Riverside,5,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,5,5,5,4,Delivery
+R0311,2025-11-23,Harbor View,2,The staff were dismissive and our order was incorrect.,Indian,1,3,2,2,Takeaway
+R0312,2025-07-21,Tech Park,3,"A reasonable visit, though nothing stood out.",Asian Fusion,4,3,3,2,Dine-in
+R0313,2025-03-21,Downtown,2,We waited too long for our food and the service felt slow.,Italian,3,3,2,3,Dine-in
+R0314,2025-08-20,Tech Park,4,Quick service and delicious food; great value for money.,Mexican,4,3,3,4,Delivery
+R0315,2025-12-23,Old Town,3,The meal matched expectations for a casual restaurant.,Indian,3,3,3,2,Delivery
+R0316,2025-07-22,Old Town,3,"A reasonable visit, though nothing stood out.",Indian,3,3,3,2,Takeaway
+R0317,2025-02-18,Harbor View,5,Quick service and delicious food; great value for money.,Indian,5,4,4,4,Dine-in
+R0318,2025-07-10,Downtown,2,Tables and washroom needed better cleaning and hygiene.,Mediterranean,2,1,1,1,Dine-in
+R0319,2025-03-07,Downtown,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,4,4,5,4,Dine-in
+R0320,2025-07-22,Harbor View,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Indian,5,5,5,5,Dine-in
+R0321,2025-05-24,Harbor View,5,The dining room was spotless and our order was accurate.,Italian,4,5,5,5,Takeaway
+R0322,2025-02-01,Downtown,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,5,5,5,5,Delivery
+R0323,2025-11-19,Old Town,5,Quick service and delicious food; great value for money.,Indian,5,5,5,5,Takeaway
+R0324,2025-07-18,Tech Park,5,The dining room was spotless and our order was accurate.,Italian,4,5,5,4,Takeaway
+R0325,2025-09-29,Tech Park,1,Tables and washroom needed better cleaning and hygiene.,Mediterranean,1,1,1,1,Delivery
+R0326,2025-01-29,Riverside,3,The meal matched expectations for a casual restaurant.,Mediterranean,4,3,3,3,Dine-in
+R0327,2025-10-30,Downtown,4,The dining room was spotless and our order was accurate.,Asian Fusion,4,4,5,4,Dine-in
+R0328,2025-01-29,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,4,3,5,3,Takeaway
+R0329,2025-03-08,Tech Park,5,Quick service and delicious food; great value for money.,Italian,5,4,4,5,Delivery
+R0330,2025-02-26,Old Town,4,Quick service and delicious food; great value for money.,Asian Fusion,3,4,5,3,Takeaway
+R0331,2025-03-22,Harbor View,3,Food was okay and the service was average.,Mexican,3,3,3,3,Delivery
+R0332,2025-07-13,Tech Park,4,Quick service and delicious food; great value for money.,Asian Fusion,4,4,3,5,Delivery
+R0333,2025-11-10,Riverside,1,Food arrived cold and the portion did not feel worth the price.,Mediterranean,1,2,1,1,Delivery
+R0334,2025-06-13,Riverside,2,Food arrived cold and the portion did not feel worth the price.,Indian,2,3,1,2,Dine-in
+R0335,2025-06-29,Tech Park,3,Food was okay and the service was average.,Indian,2,2,4,4,Delivery
+R0336,2025-07-31,Harbor View,4,Quick service and delicious food; great value for money.,Mexican,4,5,3,5,Delivery
+R0337,2025-03-25,Harbor View,4,Quick service and delicious food; great value for money.,Indian,3,4,3,4,Takeaway
+R0338,2025-06-25,Riverside,5,Wonderful meal with fresh ingredients and friendly staff.,Mexican,5,4,4,5,Delivery
+R0339,2025-12-27,Downtown,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,5,5,5,4,Dine-in
+R0340,2025-07-29,Old Town,3,Food was okay and the service was average.,Mediterranean,3,3,3,3,Dine-in
+R0341,2025-03-20,Downtown,1,Tables and washroom needed better cleaning and hygiene.,Asian Fusion,1,2,1,1,Delivery
+R0342,2025-04-13,Downtown,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Indian,4,4,4,3,Takeaway
+R0343,2025-07-23,Harbor View,5,The dining room was spotless and our order was accurate.,Mexican,5,4,5,5,Takeaway
+R0344,2025-04-06,Harbor View,5,The dining room was spotless and our order was accurate.,Indian,5,5,5,5,Dine-in
+R0345,2025-03-19,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Indian,5,5,5,4,Takeaway
+R0346,2025-10-02,Harbor View,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,5,5,5,4,Takeaway
+R0347,2025-09-15,Old Town,5,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,5,4,5,5,Dine-in
+R0348,2025-03-06,Downtown,5,Quick service and delicious food; great value for money.,Mexican,4,5,5,5,Delivery
+R0349,2025-02-04,Downtown,3,The meal matched expectations for a casual restaurant.,Mexican,4,3,3,4,Dine-in
+R0350,2025-02-27,Harbor View,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Italian,5,4,4,4,Takeaway
+R0351,2025-07-30,Tech Park,5,The dining room was spotless and our order was accurate.,Mexican,5,5,4,5,Takeaway
+R0352,2025-01-20,Harbor View,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,4,3,5,4,Takeaway
+R0353,2025-06-09,Tech Park,1,Food arrived cold and the portion did not feel worth the price.,Mexican,1,1,1,1,Delivery
+R0354,2025-05-18,Harbor View,4,The dining room was spotless and our order was accurate.,Mediterranean,3,4,5,4,Takeaway
+R0355,2025-01-29,Old Town,5,The dining room was spotless and our order was accurate.,Italian,4,5,5,5,Delivery
+R0356,2025-03-30,Riverside,5,Wonderful meal with fresh ingredients and friendly staff.,Italian,4,5,4,5,Dine-in
+R0357,2025-05-21,Tech Park,5,Quick service and delicious food; great value for money.,Mexican,5,4,4,5,Takeaway
+R0358,2025-04-01,Harbor View,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,4,4,4,4,Delivery
+R0359,2025-05-26,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Mexican,4,5,5,5,Delivery
+R0360,2025-05-18,Harbor View,3,Food was okay and the service was average.,Mediterranean,2,2,4,3,Delivery
+R0361,2025-04-25,Tech Park,3,Food was okay and the service was average.,Mediterranean,3,3,4,4,Takeaway
+R0362,2025-08-27,Tech Park,4,Quick service and delicious food; great value for money.,Mediterranean,5,3,3,4,Delivery
+R0363,2025-06-02,Downtown,4,The dining room was spotless and our order was accurate.,Mexican,3,4,4,4,Takeaway
+R0364,2025-11-30,Tech Park,3,The meal matched expectations for a casual restaurant.,Italian,3,3,2,4,Delivery
+R0365,2025-01-14,Harbor View,3,Food was okay and the service was average.,Asian Fusion,3,4,4,4,Delivery
+R0366,2025-06-25,Riverside,1,The staff were dismissive and our order was incorrect.,Mediterranean,2,1,1,1,Delivery
+R0367,2025-05-31,Downtown,5,Quick service and delicious food; great value for money.,Mexican,5,5,5,5,Delivery
+R0368,2025-04-25,Tech Park,2,Food arrived cold and the portion did not feel worth the price.,Mexican,2,2,2,2,Takeaway
+R0369,2025-01-28,Old Town,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,4,5,5,4,Delivery
+R0370,2025-07-31,Downtown,4,The dining room was spotless and our order was accurate.,Italian,4,4,4,5,Delivery
+R0371,2025-03-15,Tech Park,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Italian,4,5,5,5,Takeaway
+R0372,2025-08-20,Tech Park,4,Wonderful meal with fresh ingredients and friendly staff.,Italian,4,4,5,3,Dine-in
+R0373,2025-07-26,Harbor View,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,5,3,3,4,Delivery
+R0374,2025-06-14,Old Town,4,Wonderful meal with fresh ingredients and friendly staff.,Italian,3,3,4,4,Delivery
+R0375,2025-03-08,Downtown,5,The dining room was spotless and our order was accurate.,Mexican,5,5,4,4,Takeaway
+R0376,2025-09-24,Old Town,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,5,5,5,5,Takeaway
+R0377,2025-03-26,Harbor View,3,Food was okay and the service was average.,Indian,3,3,3,3,Delivery
+R0378,2025-03-05,Tech Park,1,The staff were dismissive and our order was incorrect.,Indian,2,1,1,1,Delivery
+R0379,2025-01-25,Downtown,2,We waited too long for our food and the service felt slow.,Mexican,3,3,1,2,Takeaway
+R0380,2025-12-22,Downtown,4,Quick service and delicious food; great value for money.,Asian Fusion,5,3,4,4,Takeaway
+R0381,2025-09-19,Old Town,5,Wonderful meal with fresh ingredients and friendly staff.,Indian,5,4,4,5,Dine-in
+R0382,2025-09-25,Riverside,4,The dining room was spotless and our order was accurate.,Asian Fusion,5,4,4,3,Delivery
+R0383,2025-12-19,Harbor View,4,Quick service and delicious food; great value for money.,Asian Fusion,4,3,3,3,Dine-in
+R0384,2025-03-18,Downtown,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,4,4,5,5,Takeaway
+R0385,2025-05-16,Harbor View,5,The dining room was spotless and our order was accurate.,Indian,4,5,4,5,Takeaway
+R0386,2025-08-07,Downtown,5,The dining room was spotless and our order was accurate.,Indian,4,4,5,5,Takeaway
+R0387,2025-11-15,Tech Park,3,"A reasonable visit, though nothing stood out.",Indian,3,3,3,2,Takeaway
+R0388,2025-05-20,Harbor View,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,5,4,3,4,Delivery
+R0389,2025-02-23,Harbor View,5,Quick service and delicious food; great value for money.,Mediterranean,5,5,5,5,Takeaway
+R0390,2025-09-05,Harbor View,4,Quick service and delicious food; great value for money.,Indian,5,5,3,3,Takeaway
+R0391,2025-12-27,Old Town,4,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,4,4,3,5,Delivery
+R0392,2025-06-27,Harbor View,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Italian,4,4,5,5,Takeaway
+R0393,2025-09-09,Tech Park,5,Wonderful meal with fresh ingredients and friendly staff.,Italian,5,5,4,5,Delivery
+R0394,2025-05-01,Downtown,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,5,5,3,5,Takeaway
+R0395,2025-12-01,Downtown,3,"A reasonable visit, though nothing stood out.",Indian,4,4,2,2,Dine-in
+R0396,2025-09-18,Old Town,5,The dining room was spotless and our order was accurate.,Italian,5,5,5,4,Dine-in
+R0397,2025-10-14,Old Town,5,The dining room was spotless and our order was accurate.,Mediterranean,5,5,5,4,Dine-in
+R0398,2025-01-02,Tech Park,5,Quick service and delicious food; great value for money.,Asian Fusion,5,5,4,4,Dine-in
+R0399,2025-02-24,Tech Park,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,4,4,3,5,Dine-in
+R0400,2025-06-23,Downtown,4,Quick service and delicious food; great value for money.,Mexican,3,3,5,5,Delivery
+R0401,2025-09-13,Downtown,4,Quick service and delicious food; great value for money.,Mediterranean,3,5,5,4,Delivery
+R0402,2025-02-23,Harbor View,4,Quick service and delicious food; great value for money.,Mediterranean,4,5,5,4,Takeaway
+R0403,2025-05-31,Harbor View,4,The dining room was spotless and our order was accurate.,Italian,4,5,4,4,Delivery
+R0404,2025-04-13,Riverside,5,Quick service and delicious food; great value for money.,Mediterranean,5,5,5,5,Delivery
+R0405,2025-12-30,Downtown,4,The dining room was spotless and our order was accurate.,Asian Fusion,5,5,4,5,Dine-in
+R0406,2025-07-15,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Indian,3,4,4,4,Takeaway
+R0407,2025-02-01,Tech Park,4,Quick service and delicious food; great value for money.,Italian,3,4,5,3,Delivery
+R0408,2025-11-28,Old Town,5,Quick service and delicious food; great value for money.,Mexican,5,5,4,5,Takeaway
+R0409,2025-10-10,Downtown,4,The dining room was spotless and our order was accurate.,Indian,4,4,5,4,Delivery
+R0410,2025-10-29,Old Town,4,The dining room was spotless and our order was accurate.,Mediterranean,4,4,4,5,Dine-in
+R0411,2025-04-06,Riverside,5,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,4,5,4,5,Takeaway
+R0412,2025-03-24,Old Town,4,Quick service and delicious food; great value for money.,Asian Fusion,3,4,5,4,Dine-in
+R0413,2025-11-02,Downtown,2,Food arrived cold and the portion did not feel worth the price.,Mediterranean,2,3,2,1,Delivery
+R0414,2025-04-05,Old Town,3,Food was okay and the service was average.,Indian,3,4,4,2,Takeaway
+R0415,2025-12-06,Tech Park,3,Food was okay and the service was average.,Asian Fusion,3,3,3,4,Delivery
+R0416,2025-02-28,Tech Park,5,Wonderful meal with fresh ingredients and friendly staff.,Mexican,5,5,4,5,Takeaway
+R0417,2025-07-17,Tech Park,5,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,5,4,5,5,Takeaway
+R0418,2025-06-14,Old Town,1,The staff were dismissive and our order was incorrect.,Indian,1,1,1,1,Dine-in
+R0419,2025-12-17,Harbor View,4,Quick service and delicious food; great value for money.,Indian,4,5,3,4,Dine-in
+R0420,2025-01-20,Downtown,4,The dining room was spotless and our order was accurate.,Indian,3,4,4,3,Delivery
+R0421,2025-07-28,Harbor View,5,The dining room was spotless and our order was accurate.,Mexican,5,5,5,4,Takeaway
+R0422,2025-11-25,Old Town,4,Wonderful meal with fresh ingredients and friendly staff.,Indian,3,3,4,3,Takeaway
+R0423,2025-11-07,Downtown,5,The dining room was spotless and our order was accurate.,Asian Fusion,5,5,5,4,Takeaway
+R0424,2025-03-11,Harbor View,2,The staff were dismissive and our order was incorrect.,Mediterranean,2,2,2,2,Dine-in
+R0425,2025-03-05,Downtown,4,Quick service and delicious food; great value for money.,Indian,5,3,4,4,Delivery
+R0426,2025-04-19,Harbor View,5,The dining room was spotless and our order was accurate.,Mediterranean,5,5,5,5,Delivery
+R0427,2025-02-28,Riverside,5,Quick service and delicious food; great value for money.,Mediterranean,4,5,4,5,Delivery
+R0428,2025-04-12,Old Town,1,We waited too long for our food and the service felt slow.,Mexican,1,1,1,1,Dine-in
+R0429,2025-04-10,Tech Park,3,Food was okay and the service was average.,Mexican,4,3,3,3,Delivery
+R0430,2025-08-08,Riverside,4,The dining room was spotless and our order was accurate.,Indian,4,4,4,5,Takeaway
+R0431,2025-12-14,Tech Park,5,Quick service and delicious food; great value for money.,Mexican,5,5,5,5,Takeaway
+R0432,2025-11-27,Old Town,4,Quick service and delicious food; great value for money.,Indian,4,4,4,4,Delivery
+R0433,2025-02-08,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,4,5,5,4,Delivery
+R0434,2025-08-30,Riverside,3,The meal matched expectations for a casual restaurant.,Asian Fusion,4,3,3,3,Takeaway
+R0435,2025-07-23,Tech Park,4,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,3,4,4,4,Takeaway
+R0436,2025-09-05,Tech Park,2,The staff were dismissive and our order was incorrect.,Indian,2,3,2,1,Takeaway
+R0437,2025-12-09,Riverside,3,Food was okay and the service was average.,Mediterranean,3,4,4,4,Dine-in
+R0438,2025-02-22,Old Town,1,Food arrived cold and the portion did not feel worth the price.,Asian Fusion,1,1,2,2,Takeaway
+R0439,2025-09-22,Tech Park,4,Wonderful meal with fresh ingredients and friendly staff.,Mexican,4,5,4,4,Takeaway
+R0440,2025-09-14,Riverside,5,Wonderful meal with fresh ingredients and friendly staff.,Mexican,5,5,4,5,Dine-in
+R0441,2025-07-05,Old Town,2,The staff were dismissive and our order was incorrect.,Indian,2,3,2,1,Takeaway
+R0442,2025-04-18,Old Town,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Italian,5,3,4,3,Dine-in
+R0443,2025-03-10,Old Town,4,Quick service and delicious food; great value for money.,Indian,4,3,4,4,Dine-in
+R0444,2025-11-03,Old Town,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Indian,4,3,4,5,Delivery
+R0445,2025-03-29,Riverside,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,5,5,5,5,Delivery
+R0446,2025-11-02,Old Town,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Indian,4,5,5,4,Dine-in
+R0447,2025-03-18,Old Town,1,Tables and washroom needed better cleaning and hygiene.,Indian,1,2,1,1,Dine-in
+R0448,2025-11-05,Old Town,4,Quick service and delicious food; great value for money.,Indian,5,5,4,3,Delivery
+R0449,2025-09-04,Harbor View,4,Quick service and delicious food; great value for money.,Asian Fusion,3,5,4,4,Takeaway
+R0450,2025-05-26,Old Town,5,Wonderful meal with fresh ingredients and friendly staff.,Mediterranean,5,5,5,4,Delivery
+R0451,2025-10-23,Old Town,5,Wonderful meal with fresh ingredients and friendly staff.,Indian,4,5,5,5,Takeaway
+R0452,2025-08-07,Old Town,3,Food was okay and the service was average.,Asian Fusion,3,4,3,3,Delivery
+R0453,2025-07-31,Old Town,4,Quick service and delicious food; great value for money.,Mediterranean,5,4,4,5,Takeaway
+R0454,2025-12-28,Harbor View,5,The dining room was spotless and our order was accurate.,Italian,4,5,5,5,Dine-in
+R0455,2025-06-23,Old Town,3,"A reasonable visit, though nothing stood out.",Mediterranean,2,3,4,2,Dine-in
+R0456,2025-11-04,Harbor View,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Indian,4,5,5,5,Dine-in
+R0457,2025-07-25,Old Town,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,4,3,4,5,Takeaway
+R0458,2025-04-10,Downtown,1,Food arrived cold and the portion did not feel worth the price.,Mediterranean,1,1,1,1,Dine-in
+R0459,2025-02-14,Tech Park,4,Quick service and delicious food; great value for money.,Mexican,4,5,5,4,Delivery
+R0460,2025-02-16,Old Town,1,We waited too long for our food and the service felt slow.,Asian Fusion,1,1,1,1,Delivery
+R0461,2025-07-26,Old Town,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Indian,5,5,5,4,Delivery
+R0462,2025-06-24,Downtown,2,Food arrived cold and the portion did not feel worth the price.,Mediterranean,2,2,3,3,Delivery
+R0463,2025-06-23,Harbor View,4,Quick service and delicious food; great value for money.,Mexican,3,5,3,4,Dine-in
+R0464,2025-12-13,Riverside,4,Quick service and delicious food; great value for money.,Asian Fusion,5,4,3,4,Dine-in
+R0465,2025-12-11,Tech Park,3,"A reasonable visit, though nothing stood out.",Indian,3,4,3,3,Dine-in
+R0466,2025-04-04,Riverside,5,The dining room was spotless and our order was accurate.,Mexican,5,5,5,5,Dine-in
+R0467,2025-11-13,Tech Park,3,Food was okay and the service was average.,Italian,2,2,2,4,Delivery
+R0468,2025-09-04,Tech Park,1,We waited too long for our food and the service felt slow.,Mediterranean,1,2,1,2,Dine-in
+R0469,2025-07-23,Riverside,5,The dining room was spotless and our order was accurate.,Mediterranean,5,4,5,5,Delivery
+R0470,2025-07-21,Riverside,1,Food arrived cold and the portion did not feel worth the price.,Mexican,1,2,1,1,Dine-in
+R0471,2025-10-25,Downtown,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,4,4,4,4,Dine-in
+R0472,2025-06-25,Tech Park,3,The meal matched expectations for a casual restaurant.,Italian,4,4,3,4,Delivery
+R0473,2025-07-25,Tech Park,5,The dining room was spotless and our order was accurate.,Mexican,5,5,5,4,Delivery
+R0474,2025-10-12,Harbor View,3,Food was okay and the service was average.,Mexican,3,3,3,4,Dine-in
+R0475,2025-03-10,Old Town,3,"A reasonable visit, though nothing stood out.",Mediterranean,3,4,3,3,Delivery
+R0476,2025-07-23,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Italian,4,5,5,5,Delivery
+R0477,2025-05-14,Tech Park,2,Food arrived cold and the portion did not feel worth the price.,Asian Fusion,2,2,1,3,Dine-in
+R0478,2025-11-07,Riverside,3,The meal matched expectations for a casual restaurant.,Mediterranean,3,3,3,3,Delivery
+R0479,2025-02-10,Harbor View,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mediterranean,4,5,4,4,Delivery
+R0480,2025-08-04,Old Town,5,The dining room was spotless and our order was accurate.,Mediterranean,5,4,4,5,Takeaway
+R0481,2025-12-01,Tech Park,3,"A reasonable visit, though nothing stood out.",Asian Fusion,4,3,4,3,Delivery
+R0482,2025-07-31,Riverside,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Italian,3,4,4,4,Delivery
+R0483,2025-04-18,Riverside,4,Wonderful meal with fresh ingredients and friendly staff.,Mexican,3,3,3,5,Delivery
+R0484,2025-09-26,Downtown,1,Tables and washroom needed better cleaning and hygiene.,Indian,1,1,1,2,Takeaway
+R0485,2025-05-26,Harbor View,3,The meal matched expectations for a casual restaurant.,Italian,3,3,2,2,Delivery
+R0486,2025-09-01,Harbor View,3,"A reasonable visit, though nothing stood out.",Mediterranean,3,4,3,3,Delivery
+R0487,2025-09-26,Old Town,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,4,5,4,3,Takeaway
+R0488,2025-05-14,Riverside,3,"A reasonable visit, though nothing stood out.",Asian Fusion,2,2,3,3,Takeaway
+R0489,2025-12-19,Harbor View,4,Wonderful meal with fresh ingredients and friendly staff.,Mexican,4,3,5,4,Delivery
+R0490,2025-10-08,Tech Park,3,Food was okay and the service was average.,Italian,4,4,4,3,Dine-in
+R0491,2025-07-13,Riverside,5,"Excellent flavors, warm service, and a relaxing atmosphere.",Asian Fusion,4,5,5,5,Takeaway
+R0492,2025-07-31,Riverside,4,The dining room was spotless and our order was accurate.,Indian,4,4,4,3,Delivery
+R0493,2025-05-20,Old Town,4,"Excellent flavors, warm service, and a relaxing atmosphere.",Mexican,4,4,3,4,Dine-in
+R0494,2025-04-06,Downtown,5,Wonderful meal with fresh ingredients and friendly staff.,Asian Fusion,5,5,5,4,Dine-in
+R0495,2025-09-10,Riverside,2,We waited too long for our food and the service felt slow.,Asian Fusion,3,2,3,2,Takeaway
+R0496,2025-06-19,Downtown,4,Wonderful meal with fresh ingredients and friendly staff.,Italian,3,4,5,3,Delivery
+R0497,2025-05-09,Harbor View,4,Quick service and delicious food; great value for money.,Indian,3,4,5,5,Dine-in
+R0498,2025-04-12,Harbor View,5,Wonderful meal with fresh ingredients and friendly staff.,Indian,5,5,5,5,Takeaway
+R0499,2025-10-09,Old Town,2,We waited too long for our food and the service felt slow.,Indian,2,3,2,2,Takeaway
+R0500,2025-02-27,Riverside,5,Quick service and delicious food; great value for money.,Mexican,5,4,5,5,Delivery
