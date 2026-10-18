@@ -41,23 +41,48 @@ function parseCsv(csv: string) {
   }))
 }
 
+// Simple in-memory cache to avoid re-reading/parsing the CSV on every request.
+let cachedReviews: ReturnType<typeof parseCsv> | null = null
+let cacheTimestamp = 0
+const CACHE_TTL = 1000 * 60 // 1 minute
+
 export async function GET() {
   try {
+    if (cachedReviews && Date.now() - cacheTimestamp < CACHE_TTL) {
+      return NextResponse.json({ reviews: cachedReviews, source: 'cache' })
+    }
+
     const csv = await readFile(csvPath, 'utf8')
-    return NextResponse.json({ reviews: parseCsv(csv), source: 'sample_reviews.csv' })
-  } catch {
+    const parsed = parseCsv(csv)
+    cachedReviews = parsed
+    cacheTimestamp = Date.now()
+    return NextResponse.json({ reviews: parsed, source: 'sample_reviews.csv' })
+  } catch (err) {
+    console.error('Failed to read/parse reviews CSV:', err)
     return NextResponse.json({ error: 'Review data is unavailable.' }, { status: 500 })
   }
 }
 
 export async function POST(request: Request) {
-  const body = await request.json().catch(() => null)
-  if (!body?.text || typeof body.text !== 'string') return NextResponse.json({ error: 'Review text is required.' }, { status: 400 })
-  const text = body.text.toLowerCase()
-  const negativeWords = ['slow', 'cold', 'dirty', 'rude', 'wrong', 'wait', 'expensive', 'bad']
-  const positiveWords = ['great', 'excellent', 'fresh', 'friendly', 'delicious', 'wonderful', 'quick']
-  const negative = negativeWords.filter(word => text.includes(word))
-  const positive = positiveWords.filter(word => text.includes(word))
-  const sentiment = negative.length > positive.length ? 'Negative' : positive.length > negative.length ? 'Positive' : 'Neutral'
-  return NextResponse.json({ sentiment, score: Math.max(-1, Math.min(1, (positive.length - negative.length) / 3)), signals: negative })
+  try {
+    const body = await request.json().catch(() => null)
+    if (!body || typeof body !== 'object') return NextResponse.json({ error: 'Invalid JSON body.' }, { status: 400 })
+
+    const text = typeof body.text === 'string' ? body.text.trim() : ''
+    if (!text) return NextResponse.json({ error: 'Review text is required.' }, { status: 400 })
+    if (text.length > 5000) return NextResponse.json({ error: 'Review text is too long.' }, { status: 400 })
+
+    const lower = text.toLowerCase()
+    const negativeWords = ['slow', 'cold', 'dirty', 'rude', 'wrong', 'wait', 'expensive', 'bad']
+    const positiveWords = ['great', 'excellent', 'fresh', 'friendly', 'delicious', 'wonderful', 'quick']
+    const negative = negativeWords.filter(word => lower.includes(word))
+    const positive = positiveWords.filter(word => lower.includes(word))
+    const sentiment = negative.length > positive.length ? 'Negative' : positive.length > negative.length ? 'Positive' : 'Neutral'
+
+    // Return small, predictable payload and echo any matched negative signals to support UI highlights.
+    return NextResponse.json({ sentiment, score: Math.max(-1, Math.min(1, (positive.length - negative.length) / 3)), signals: { negative, positive } })
+  } catch (err) {
+    console.error('POST /api/reviews error:', err)
+    return NextResponse.json({ error: 'Failed to analyze sentiment.' }, { status: 500 })
+  }
 }
